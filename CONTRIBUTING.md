@@ -1,3 +1,0 @@
-Current contributers:
-JinxCade
-MattTheTekie
