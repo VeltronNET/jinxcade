@@ -105,7 +105,7 @@ body {
   margin: 5;
   padding: 5;
   background: #c0c0c0;
-  cursor: url("cur/default.png") 16 16, auto;
+  cursor: url("cur/default.png") 32 32, auto;
 }
 
 hr {
@@ -226,31 +226,31 @@ input[type="reset"].default {
   box-shadow: var(--default-button-border-raised-outer), var(--default-button-border-raised-inner);
 }
 button:hover {
-cursor: url("cur/point.png") 16 16, auto;
+cursor: url("cur/point.png") 32 32, auto;
 }
 button:disabled:hover {
-cursor: url("cur/blocked.png") 16 16, auto;
+cursor: url("cur/blocked.png") 32 32, auto;
 }
 a:hover {
-cursor: url("cur/point.png") 16 16, auto;
+cursor: url("cur/point.png") 32 32, auto;
 }
 p:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 legend:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 h1:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 h2:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 h3:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 h4:hover {
-cursor: url("cur/text.png") 0 0, auto;
+cursor: url("cur/text.png") 32 32, auto;
 }
 
 .vertical-bar {
